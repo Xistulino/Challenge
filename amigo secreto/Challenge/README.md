@@ -24,13 +24,6 @@ Após adicionar todos os participantes, clique no botão "Sortear Amigo".
 
 O sistema exibirá o nome do amigo secreto sorteado.
 
-## Estrutura do Projeto
-
-├── index.html  # Estrutura principal da página
-├── style.css   # Estilos visuais do site
-├── app.js      # Lógica de funcionamento da aplicação
-├── assets/     # Imagens e ícones utilizados
-
 ## Contribuição
 
 Se você deseja contribuir com melhorias para o projeto, sinta-se à vontade para criar um fork do repositório, implementar suas mudanças e abrir um pull request.
